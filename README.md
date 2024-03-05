@@ -14,7 +14,9 @@
 2. Open the StopwatchWearOS app.
 3. Use the on-screen controls to start, stop, and reset the stopwatch.
 
-## Screenshots
+## Screen Recording
+
+[Screen_Recording](https://github.com/ekineskin/StopWatchWearOS/assets/86964338/2b45f146-a0f6-484f-9822-7d0f65ba89ea)
 
 ## Development
 
