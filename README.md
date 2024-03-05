@@ -16,7 +16,7 @@
 
 ## Screen Recording
 
-[Screen_Recording](https://github.com/ekineskin/StopWatchWearOS/assets/86964338/2b45f146-a0f6-484f-9822-7d0f65ba89ea)
+[Screen_Recording](https://github.com/ekineskin/StopWatchWearOS/assets/86964338/6020262b-f41e-4921-821d-440790ea09e8)
 
 ## Development
 
